@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+}
+
+table {
+    border: 2px solid rgb(255, 255, 255);
+    
+}
+
+
+
+/*texts/paragraphs/headings*/
+
+.maintitle {
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+    color: azure;
+    font-size: 45px;
+    margin: 0 auto 0 auto;
+    font-weight: 700;
+    width: 1200;
+}
+
+.tableheadings1 {
+    margin-top:0;
+    margin-left: 10px;
+    color: azure;
+    font-size: 30px;
+    width: 250px;
+    
+}
+
+.tableheadings2 {
+    margin-top:0;
+    margin-left: 10px;
+    color: azure;
+    font-size: 30px;
+    
+}
+
+.titles {
+    font-size: 20px;
+    color: azure;
+    padding-top: 20px;
+}
+
+.description {
+    font-size: 20px;
+    color: azure;
+    padding-top: 20px;
+    
+    
+}
+
+
+/* divs */
+
+
+.startdiv {
+    background-color:#0a043c;
+    width: 100%;
+    padding-top: 15px;
+    height: 70px;
+    text-align: center;
+    
+}
+
+.secondcontainer {
+    height: 500px;
+    width: 100%;
+    background-color: #03506f;
+    padding-top: 10px;
+}
